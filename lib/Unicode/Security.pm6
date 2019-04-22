@@ -35,9 +35,7 @@ sub confusables-whole-script( $c where %confusables-ws{$c} ) is export {
 
 sub skeleton( $string ) is export {
     my $copy = $string.NFD.Str;
-    say $copy;
     $copy.=trans( @confusables-sources => @confusables-targets );
-    say "$copy, $string";
     return $copy
 }
 
