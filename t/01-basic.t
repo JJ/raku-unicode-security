@@ -2,8 +2,8 @@ use v6.c;
 use Test;
 use Unicode::Security;
 
-say  confusables( "\x[006F]");
-is confusables( "\x[006F]"), "o", "Confusables includes o";
+say  confusables( "\x[00F8]");
+is confusables( "\x[00F8]"), "o", "Confusables includes o";
 
 ok confusable("s\x[006F,0337]s", "s\x[00F8]s"), 'sos';
 ok confusable('paypal', "p\x[0430]yp\x[0430]l"), 'paypal';
