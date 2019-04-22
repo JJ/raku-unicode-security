@@ -1,1447 +1,2282 @@
 {
-  "041A": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "093C": [
-    "Deva",
-    "Orya",
-    "A"
-  ],
-  "0E22": [
-    "Thai",
-    "Laoo",
-    "A"
-  ],
-  "0071": [
-    "Latn",
-    "Armn",
-    "A"
-  ],
-  "15B4": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "0192": [
-    "Latn",
-    "Armn",
-    "A"
-  ],
-  "1427": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "0054": [
+  "ɨ": [
     "Latn",
     "Grek",
     "A"
   ],
-  "041D": [
-    "Cyrl",
+  "Ᏺ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "m": [
+    "Latn",
     "Cans",
     "A"
   ],
-  "059C": [
-    "Hebr",
-    "Deva",
-    "A"
-  ],
-  "0CE6": [
+  "ఒ": [
+    "Telu",
     "Knda",
+    "A"
+  ],
+  "Ᏻ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ิ": [
+    "Thai",
+    "Khmr",
+    "A"
+  ],
+  "ө": [
+    "Cyrl",
     "Thai",
     "A"
   ],
-  "0406": [
-    "Cyrl",
+  "R": [
+    "Latn",
     "Cans",
     "A"
   ],
-  "03C5": [
-    "Grek",
-    "Latn",
-    "A"
-  ],
-  "0566": [
-    "Armn",
-    "Latn",
-    "A"
-  ],
-  "09ED": [
+  "৪": [
     "Beng",
     "Orya",
     "A"
   ],
-  "13D9": [
-    "Cher",
+  "ఞ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ఱ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "đ": [
+    "Latn",
     "Cans",
     "A"
   ],
-  "13F2": [
-    "Cher",
-    "Armn",
-    "A"
-  ],
-  "0410": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "13F4": [
-    "Cher",
-    "Cans",
-    "A"
-  ],
-  "0458": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0D20": [
-    "Mlym",
-    "Orya",
-    "A"
-  ],
-  "15EF": [
-    "Cans",
-    "Cher",
-    "A"
-  ],
-  "03B5": [
-    "Grek",
-    "Latn",
-    "A"
-  ],
-  "0581": [
-    "Armn",
-    "Latn",
-    "A"
-  ],
-  "0E8D": [
-    "Laoo",
-    "Thai",
-    "A"
-  ],
-  "0275": [
+  "ø": [
     "Latn",
     "Thai",
     "A"
   ],
-  "01DD": [
+  "૨": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "ɗ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ħ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ɗ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "п": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "ః": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ణ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "०": [
+    "Deva",
+    "Thai",
+    "A"
+  ],
+  "Μ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ऽ": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "s": [
     "Latn",
     "Cyrl",
     "A"
   ],
-  "039F": [
-    "Grek",
+  "౨": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "Ꮇ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "Ȣ": [
+    "Latn",
     "Orya",
     "A"
   ],
-  "0A02": [
+  "З": [
+    "Cyrl",
+    "Armn",
+    "A"
+  ],
+  "p": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Υ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "Ǝ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "ɠ": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "Ι": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "ੋ": [
     "Guru",
-    "Taml",
+    "Deva",
     "A"
   ],
-  "00F8": [
+  "ಓ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "ᗅ": [
+    "Cans",
     "Latn",
-    "Thai",
     "A"
   ],
-  "17CB": [
-    "Khmr",
-    "Thai",
-    "A"
-  ],
-  "00D8": [
-    "Latn",
-    "Orya",
-    "A"
-  ],
-  "05B9": [
-    "Hebr",
-    "Taml",
-    "A"
-  ],
-  "019E": [
+  "X": [
     "Latn",
     "Grek",
-    "L"
+    "A"
   ],
-  "1036": [
+  "c": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ә": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "І": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ଃ": [
+    "Orya",
+    "Latn",
+    "A"
+  ],
+  "ു": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "ံ": [
     "Mymr",
     "Thai",
     "A"
   ],
-  "01B5": [
+  "r": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Ұ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ҙ": [
+    "Cyrl",
+    "Armn",
+    "A"
+  ],
+  "ೌ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "Ȥ": [
     "Latn",
     "Grek",
     "A"
   ],
-  "0AEE": [
-    "Gujr",
-    "Deva",
-    "A"
-  ],
-  "0193": [
-    "Latn",
+  "П": [
     "Cyrl",
+    "Grek",
     "A"
   ],
-  "0A66": [
-    "Guru",
+  "ఆ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "จ": [
     "Thai",
+    "Laoo",
     "A"
   ],
-  "0420": [
+  "Ꮥ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "Ꮪ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ᗪ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Δ": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "Ј": [
     "Cyrl",
     "Cans",
     "A"
   ],
-  "09EA": [
+  "ி": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "Z": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ӊ": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "q": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "৭": [
     "Beng",
     "Orya",
     "A"
   ],
-  "0142": [
-    "Latn",
-    "Cans",
-    "L"
-  ],
-  "0050": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0166": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "01E4": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "0490": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "03A1": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "04E1": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "04AB": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "13D4": [
-    "Cher",
-    "Cans",
-    "A"
-  ],
-  "13DE": [
-    "Cher",
-    "Cans",
-    "A"
-  ],
-  "0B3C": [
-    "Orya",
-    "Guru",
-    "A"
-  ],
-  "0BC2": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "13AA": [
-    "Cher",
-    "Grek",
-    "A"
-  ],
-  "005A": [
-    "Latn",
-    "Cher",
-    "A"
-  ],
-  "04D9": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "05C4": [
-    "Hebr",
-    "Taml",
-    "A"
-  ],
-  "0D09": [
-    "Mlym",
-    "Taml",
-    "A"
-  ],
-  "0C23": [
-    "Telu",
-    "Knda",
-    "A"
-  ],
-  "0555": [
-    "Armn",
-    "Orya",
-    "A"
-  ],
-  "043A": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0260": [
-    "Latn",
-    "Armn",
-    "A"
-  ],
-  "0259": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "0ECD": [
-    "Laoo",
-    "Thai",
-    "A"
-  ],
-  "1403": [
-    "Cans",
-    "Grek",
-    "A"
-  ],
-  "039C": [
-    "Grek",
-    "Cyrl",
-    "A"
-  ],
-  "0A3C": [
-    "Guru",
-    "Orya",
-    "A"
-  ],
-  "04D5": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "01A5": [
-    "Latn",
-    "Cans",
-    "L"
-  ],
-  "0BBF": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "0444": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "0063": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "0CEF": [
+  "ಜ": [
     "Knda",
     "Telu",
     "A"
   ],
-  "0472": [
-    "Cyrl",
-    "Orya",
-    "A"
-  ],
-  "13BD": [
-    "Cher",
-    "Geor",
-    "A"
-  ],
-  "0475": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "006C": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "049F": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "15DE": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "0946": [
-    "Deva",
-    "Guru",
-    "A"
-  ],
-  "04B2": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "0A67": [
-    "Guru",
-    "Orya",
-    "A"
-  ],
-  "0570": [
-    "Armn",
-    "Latn",
-    "A"
-  ],
-  "01BD": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "1635": [
-    "Cans",
-    "Grek",
-    "A"
-  ],
-  "004C": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "13C0": [
-    "Cher",
-    "Latn",
-    "A"
-  ],
-  "019A": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0D23": [
-    "Mlym",
-    "Taml",
-    "A"
-  ],
-  "0443": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "04B0": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "0398": [
-    "Grek",
-    "Orya",
-    "A"
-  ],
-  "03BD": [
-    "Grek",
-    "Latn",
-    "A"
-  ],
-  "0417": [
-    "Cyrl",
-    "Armn",
-    "A"
-  ],
-  "094D": [
-    "Deva",
-    "Guru",
-    "A"
-  ],
-  "0E88": [
-    "Laoo",
-    "Thai",
-    "A"
-  ],
-  "0E08": [
-    "Thai",
-    "Laoo",
-    "A"
-  ],
-  "0B82": [
-    "Taml",
-    "Thai",
-    "A"
-  ],
-  "03B9": [
-    "Grek",
-    "Cher",
-    "A"
-  ],
-  "0473": [
-    "Cyrl",
-    "Thai",
-    "A"
-  ],
-  "0064": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0185": [
-    "Latn",
-    "Cyrl",
-    "L"
-  ],
-  "04CD": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0575": [
-    "Armn",
-    "Latn",
-    "A"
-  ],
-  "13AC": [
-    "Cher",
-    "Grek",
-    "A"
-  ],
-  "0111": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "0B89": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "157D": [
-    "Cans",
-    "Latn",
-    "L"
-  ],
-  "03B4": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "0077": [
-    "Latn",
-    "Cher",
-    "A"
-  ],
-  "0C82": [
-    "Knda",
-    "Thai",
-    "A"
-  ],
-  "03BF": [
-    "Grek",
-    "Thai",
-    "A"
-  ],
-  "0131": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "09E6": [
+  "়": [
     "Beng",
     "Orya",
     "A"
   ],
-  "0046": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "006A": [
-    "Latn",
-    "Armn",
-    "A"
-  ],
-  "0498": [
-    "Cyrl",
-    "Armn",
-    "A"
-  ],
-  "13E6": [
-    "Cher",
-    "Grek",
-    "A"
-  ],
-  "0491": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0966": [
-    "Deva",
-    "Thai",
-    "A"
-  ],
-  "0585": [
-    "Armn",
-    "Thai",
-    "A"
-  ],
-  "043E": [
-    "Cyrl",
-    "Thai",
-    "A"
-  ],
-  "04C9": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "0415": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0ACD": [
-    "Gujr",
-    "Guru",
-    "A"
-  ],
-  "04E8": [
-    "Cyrl",
-    "Orya",
-    "A"
-  ],
-  "041E": [
-    "Cyrl",
-    "Orya",
-    "A"
-  ],
-  "0183": [
-    "Latn",
-    "Cans",
-    "L"
-  ],
-  "0EC8": [
-    "Laoo",
-    "Khmr",
-    "A"
-  ],
-  "0D8C": [
-    "Sinh",
-    "Mlym",
-    "A"
-  ],
-  "0533": [
-    "Armn",
-    "Latn",
-    "A"
-  ],
-  "05AF": [
-    "Hebr",
-    "Thai",
-    "A"
-  ],
-  "049E": [
-    "Cyrl",
-    "Cher",
-    "A"
-  ],
-  "10E7": [
-    "Geor",
-    "Latn",
-    "A"
-  ],
-  "0223": [
-    "Latn",
-    "Orya",
-    "L"
-  ],
-  "1577": [
-    "Cans",
-    "Grek",
-    "A"
-  ],
-  "0253": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0187": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "0ED0": [
-    "Laoo",
-    "Thai",
-    "A"
-  ],
-  "0CCC": [
-    "Knda",
-    "Telu",
-    "A"
-  ],
-  "0076": [
+  "ƅ": [
     "Latn",
     "Cyrl",
     "A"
   ],
-  "0C1E": [
-    "Telu",
-    "Knda",
-    "A"
-  ],
-  "0ABC": [
-    "Gujr",
-    "Orya",
-    "A"
-  ],
-  "0056": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0902": [
-    "Deva",
+  "ஂ": [
     "Taml",
-    "A"
-  ],
-  "13C3": [
-    "Cher",
-    "Grek",
-    "A"
-  ],
-  "13BB": [
-    "Cher",
-    "Cans",
-    "A"
-  ],
-  "0138": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "025B": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "04E9": [
-    "Cyrl",
     "Thai",
     "A"
   ],
-  "01A9": [
-    "Latn",
+  "๐": [
+    "Thai",
+    "Telu",
+    "A"
+  ],
+  "ᐎ": [
+    "Cans",
     "Grek",
     "A"
   ],
-  "0191": [
+  "Ɖ": [
     "Latn",
     "Cans",
     "A"
   ],
-  "0D28": [
-    "Mlym",
-    "Sinh",
+  "B": [
+    "Latn",
+    "Cans",
     "A"
   ],
-  "04AA": [
-    "Cyrl",
-    "Cher",
+  "ຍ": [
+    "Laoo",
+    "Thai",
     "A"
   ],
-  "0B66": [
-    "Orya",
-    "Mong",
+  "ρ": [
+    "Grek",
+    "Cans",
     "A"
   ],
-  "14AA": [
+  "ᗰ": [
     "Cans",
     "Latn",
     "A"
   ],
-  "30D8": [
-    "Kana",
+  "Ρ": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "へ": [
     "Hira",
+    "Kana",
     "A"
   ],
-  "096E": [
-    "Deva",
-    "Gujr",
-    "A"
-  ],
-  "0126": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0075": [
+  "ƒ": [
     "Latn",
     "Armn",
     "A"
   ],
-  "13BE": [
+  "Ꭻ": [
     "Cher",
-    "Orya",
-    "A"
-  ],
-  "0D02": [
-    "Mlym",
-    "Thai",
-    "A"
-  ],
-  "0B90": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "101D": [
-    "Mymr",
-    "Thai",
-    "A"
-  ],
-  "1587": [
     "Cans",
-    "Latn",
     "A"
   ],
-  "162F": [
-    "Cans",
+  "Ғ": [
+    "Cyrl",
     "Grek",
     "A"
   ],
-  "0D4D": [
-    "Mlym",
-    "Sinh",
-    "A"
-  ],
-  "00D0": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "0D1C": [
-    "Mlym",
-    "Taml",
-    "A"
-  ],
-  "01FE": [
+  "ȣ": [
     "Latn",
     "Orya",
     "A"
   ],
-  "01A1": [
-    "Latn",
-    "Thai",
+  "ु": [
+    "Deva",
+    "Gujr",
     "A"
   ],
-  "0E50": [
-    "Thai",
+  "ం": [
     "Telu",
+    "Thai",
     "A"
   ],
-  "01B4": [
+  "ํ": [
+    "Thai",
+    "Taml",
+    "A"
+  ],
+  "ռ": [
+    "Armn",
     "Latn",
-    "Geor",
     "A"
   ],
-  "13B7": [
+  "Ꭼ": [
     "Cher",
     "Latn",
     "A"
   ],
-  "0E48": [
+  "ᑷ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "A": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ơ": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "ຈ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "d": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ึ": [
     "Thai",
     "Khmr",
     "A"
   ],
-  "0578": [
-    "Armn",
+  "Ƴ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ᑻ": [
+    "Cans",
     "Latn",
     "A"
   ],
-  "0433": [
-    "Cyrl",
-    "Latn",
+  "ย": [
+    "Thai",
+    "Laoo",
     "A"
   ],
-  "049A": [
-    "Cyrl",
+  "Ꮁ": [
     "Cher",
-    "A"
-  ],
-  "0AE6": [
-    "Gujr",
-    "Thai",
-    "A"
-  ],
-  "04AF": [
-    "Cyrl",
-    "Geor",
-    "A"
-  ],
-  "0454": [
-    "Cyrl",
     "Grek",
     "A"
   ],
-  "018C": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "15F7": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "0C02": [
-    "Telu",
+  "օ": [
+    "Armn",
     "Thai",
     "A"
   ],
-  "146F": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "0181": [
+  "M": [
     "Latn",
     "Grek",
     "A"
   ],
-  "0052": [
-    "Latn",
+  "А": [
+    "Cyrl",
     "Cans",
     "A"
   ],
-  "0A4B": [
-    "Guru",
-    "Deva",
+  "Х": [
+    "Cyrl",
+    "Latn",
     "A"
   ],
-  "004F": [
+  "h": [
     "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "୨": [
     "Orya",
+    "Guru",
     "A"
   ],
-  "13A5": [
-    "Cher",
-    "Latn",
+  "้": [
+    "Thai",
+    "Laoo",
     "A"
   ],
-  "01FF": [
+  "u": [
     "Latn",
+    "Grek",
+    "A"
+  ],
+  "ം": [
+    "Mlym",
     "Thai",
     "A"
   ],
-  "0440": [
+  "ɩ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "V": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "b": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ᖯ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ண": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "K": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ћ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ι": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ຸ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ᘵ": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "Π": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "զ": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "உ": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "L": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "G": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "В": [
     "Cyrl",
     "Cans",
     "A"
   ],
-  "01E5": [
-    "Latn",
-    "Armn",
-    "A"
-  ],
-  "00C6": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "3007": [
+  "〇": [
     "Hani",
     "Orya",
     "A"
   ],
-  "0A82": [
-    "Gujr",
-    "Taml",
-    "A"
-  ],
-  "0A6A": [
-    "Guru",
-    "Orya",
-    "A"
-  ],
-  "1541": [
-    "Cans",
+  "κ": [
+    "Grek",
     "Latn",
     "A"
   ],
-  "13CF": [
+  "v": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ĸ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ł": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ꮲ": [
     "Cher",
     "Cans",
     "A"
   ],
-  "0408": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "1040": [
-    "Mymr",
-    "Thai",
-    "A"
-  ],
-  "0545": [
-    "Armn",
-    "Cyrl",
-    "A"
-  ],
-  "0070": [
-    "Latn",
-    "Cans",
-    "A"
-  ],
-  "01B3": [
+  "E": [
     "Latn",
     "Grek",
     "A"
   ],
-  "0445": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "3078": [
-    "Hira",
-    "Kana",
-    "A"
-  ],
-  "0425": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "01AE": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "03C6": [
-    "Grek",
-    "Cyrl",
-    "A"
-  ],
-  "0C1C": [
-    "Telu",
-    "Knda",
-    "A"
-  ],
-  "0C4C": [
-    "Telu",
-    "Knda",
-    "A"
-  ],
-  "146D": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "04C0": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "0C2F": [
-    "Telu",
-    "Knda",
-    "A"
-  ],
-  "050C": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "148D": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "13A9": [
-    "Cher",
-    "Geor",
-    "A"
-  ],
-  "17C6": [
-    "Khmr",
-    "Thai",
-    "A"
-  ],
-  "03A9": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "00E6": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "006F": [
-    "Latn",
-    "Thai",
-    "A"
-  ],
-  "0BB4": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "026F": [
+  "ƌ": [
     "Latn",
     "Cans",
     "A"
   ],
-  "0E4D": [
-    "Thai",
-    "Taml",
-    "A"
-  ],
-  "044A": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "0B03": [
-    "Orya",
-    "Latn",
-    "A"
-  ],
-  "0394": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "0C9C": [
+  "ಣ": [
     "Knda",
     "Telu",
     "A"
   ],
-  "13B3": [
-    "Cher",
+  "ъ": [
+    "Cyrl",
     "Cans",
     "A"
   ],
-  "0D34": [
+  "ᑶ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ᒷ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ӡ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ѵ": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ѳ": [
+    "Cyrl",
+    "Thai",
+    "A"
+  ],
+  "Ɓ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "H": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "δ": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "ീ": [
     "Mlym",
     "Taml",
     "A"
   ],
-  "13B1": [
-    "Cher",
-    "Grek",
-    "A"
-  ],
-  "0053": [
+  "I": [
     "Latn",
-    "Cher",
-    "A"
-  ],
-  "13E2": [
-    "Cher",
     "Cans",
     "A"
   ],
-  "03A7": [
-    "Grek",
+  "Ǥ": [
     "Latn",
-    "A"
-  ],
-  "0492": [
-    "Cyrl",
-    "Grek",
-    "A"
-  ],
-  "0C9E": [
-    "Knda",
-    "Telu",
-    "A"
-  ],
-  "13D5": [
-    "Cher",
     "Cyrl",
     "A"
   ],
-  "0501": [
-    "Cyrl",
+  "J": [
+    "Latn",
     "Cans",
     "A"
   ],
-  "0563": [
+  "ı": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Օ": [
     "Armn",
-    "Latn",
+    "Orya",
     "A"
   ],
-  "0493": [
+  "N": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ҫ": [
     "Cyrl",
     "Latn",
     "A"
   ],
-  "04B1": [
-    "Cyrl",
+  "Ν": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "໊": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ฟ": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ɓ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "y": [
+    "Latn",
     "Geor",
     "A"
   ],
-  "0C6F": [
+  "ജ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "య": [
     "Telu",
     "Knda",
     "A"
   ],
-  "0954": [
+  "॔": [
     "Deva",
     "Hebr",
     "A"
   ],
-  "0B9C": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "0062": [
+  "ɖ": [
     "Latn",
     "Cans",
     "A"
   ],
-  "0BA3": [
-    "Taml",
-    "Mlym",
-    "A"
-  ],
-  "142F": [
-    "Cans",
-    "Latn",
-    "A"
-  ],
-  "03C1": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "03A3": [
-    "Grek",
-    "Cher",
-    "A"
-  ],
-  "04BB": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "09BC": [
-    "Beng",
-    "Orya",
-    "A"
-  ],
-  "0435": [
-    "Cyrl",
-    "Latn",
-    "A"
-  ],
-  "0C55": [
+  "ఓ": [
     "Telu",
     "Knda",
     "A"
   ],
-  "0474": [
-    "Cyrl",
-    "Cans",
-    "A"
-  ],
-  "0224": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "0A4D": [
-    "Guru",
+  "્": [
     "Gujr",
+    "Guru",
     "A"
   ],
-  "15EA": [
+  "Ƥ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "f": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "g": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "ᕁ": [
     "Cans",
     "Latn",
     "A"
   ],
-  "0069": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "0045": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "157C": [
-    "Cans",
-    "Grek",
-    "A"
-  ],
-  "01B7": [
-    "Latn",
-    "Cyrl",
-    "A"
-  ],
-  "01AC": [
-    "Latn",
-    "Grek",
-    "A"
-  ],
-  "03B7": [
-    "Grek",
-    "Latn",
-    "A"
-  ],
-  "0397": [
-    "Grek",
-    "Cans",
-    "A"
-  ],
-  "0079": [
+  "ƴ": [
     "Latn",
     "Geor",
     "A"
   ],
-  "0430": [
-    "Cyrl",
+  "æ": [
     "Latn",
+    "Cyrl",
     "A"
   ],
-  "0C66": [
-    "Telu",
+  "ʒ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "ണ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "੦": [
+    "Guru",
     "Thai",
     "A"
   ],
-  "0BCD": [
-    "Taml",
-    "Hebr",
+  "జ": [
+    "Telu",
+    "Knda",
     "A"
   ],
-  "15C5": [
+  "Χ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "Ꮶ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "Ə": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "ᗯ": [
     "Cans",
     "Latn",
     "A"
   ],
-  "0395": [
+  "Ф": [
+    "Cyrl",
     "Grek",
+    "A"
+  ],
+  "l": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ᘯ": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "ਂ": [
+    "Guru",
+    "Taml",
+    "A"
+  ],
+  "઼": [
+    "Gujr",
+    "Orya",
+    "A"
+  ],
+  "୦": [
+    "Orya",
+    "Mong",
+    "A"
+  ],
+  "ə": [
+    "Latn",
     "Cyrl",
     "A"
   ],
-  "0CA3": [
+  "Ү": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ꮩ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "ҟ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "്": [
+    "Mlym",
+    "Sinh",
+    "A"
+  ],
+  "ց": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "४": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "ɯ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ໍ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ᑺ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ʒ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "n": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ඌ": [
+    "Sinh",
+    "Mlym",
+    "A"
+  ],
+  "೧": [
     "Knda",
     "Telu",
     "A"
   ],
-  "045B": [
+  "ᒶ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ʀ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "К": [
     "Cyrl",
     "Latn",
     "A"
   ],
-  "04C7": [
-    "Cyrl",
+  "Ω": [
+    "Grek",
     "Cans",
     "A"
   ],
-  "13C2": [
+  "੍": [
+    "Guru",
+    "Gujr",
+    "A"
+  ],
+  "ᕼ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ƞ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ø": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "Ꮋ": [
     "Cher",
-    "Cyrl",
-    "A"
-  ],
-  "056E": [
-    "Armn",
     "Cans",
     "A"
   ],
-  "13E7": [
-    "Cher",
+  "२": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "૮": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "ƃ": [
+    "Latn",
     "Cans",
     "A"
   ],
-  "049B": [
-    "Cyrl",
-    "Latn",
-    "L"
-  ],
-  "0127": [
-    "Latn",
-    "Armn",
+  "ិ": [
+    "Khmr",
+    "Thai",
     "A"
   ],
-  "0292": [
+  "೨": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "є": [
+    "Cyrl",
     "Latn",
+    "A"
+  ],
+  "ဝ": [
+    "Mymr",
+    "Thai",
+    "A"
+  ],
+  "ᗷ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "P": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "o": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "С": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ы": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ಔ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "Ζ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "М": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ఔ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ं": [
+    "Deva",
+    "Taml",
+    "A"
+  ],
+  "ơ": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "ഠ": [
+    "Mlym",
+    "Orya",
+    "A"
+  ],
+  "Ҫ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ປ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "౯": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "Γ": [
+    "Grek",
     "Cyrl",
     "A"
   ],
-  "0BE8": [
+  "Т": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Г": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "໋": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "़": [
+    "Deva",
+    "Orya",
+    "A"
+  ],
+  "D": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "һ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "х": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ஐ": [
     "Taml",
     "Mlym",
     "A"
   ],
-  "1810": [
+  "Ԍ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ʃ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ƃ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "р": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "Æ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Ƈ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "π": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "Ƙ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ᐃ": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "ຟ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ј": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ꮒ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ഴ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "ᐯ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ѵ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ƥ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ບ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "᠐": [
     "Mong",
     "Orya",
     "A"
   ],
-  "15AF": [
-    "Cans",
-    "Latn",
+  "Ѳ": [
+    "Cyrl",
+    "Orya",
     "A"
   ],
-  "0399": [
+  "Ο": [
     "Grek",
-    "Cans",
+    "Orya",
     "A"
   ],
-  "0044": [
+  "ǿ": [
     "Latn",
-    "Cans",
+    "Thai",
     "A"
   ],
-  "0CAF": [
+  "ಃ": [
     "Knda",
     "Telu",
     "A"
   ],
-  "04AE": [
+  "Đ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ॆ": [
+    "Deva",
+    "Guru",
+    "A"
+  ],
+  "ν": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "Ӎ": [
     "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Κ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ឹ": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "Қ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ׄ": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "ૂ": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "ᒪ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "a": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Ǿ": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "j": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "ք": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "ƽ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Φ": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "Τ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ֹ": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "Є": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ƒ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ູ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "พ": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ᒘ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ꮯ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "x": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ᖇ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ຝ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "्": [
+    "Deva",
+    "Guru",
+    "A"
+  ],
+  "ಅ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "Ð": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ꮎ": [
+    "Cher",
+    "Orya",
+    "A"
+  ],
+  "Ɲ": [
+    "Latn",
     "Grek",
     "A"
   ],
-  "04A2": [
+  "Α": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "Ӏ": [
     "Cyrl",
     "Cans",
     "A"
   ],
-  "0456": [
+  "Ӕ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "೦": [
+    "Knda",
+    "Thai",
+    "A"
+  ],
+  "๊": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ո": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "ಯ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "ծ": [
+    "Armn",
+    "Cans",
+    "A"
+  ],
+  "υ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "e": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Ӈ": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ׁ": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "บ": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "Յ": [
+    "Armn",
+    "Cyrl",
+    "A"
+  ],
+  "૩": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "ಱ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "Ꮮ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "ू": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "౧": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ພ": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "০": [
+    "Beng",
+    "Orya",
+    "A"
+  ],
+  "г": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "३": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "၀": [
+    "Mymr",
+    "Thai",
+    "A"
+  ],
+  "ł": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "к": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "і": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ഉ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "ป": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ᔰ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "੧": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "Ꮃ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "Ꭵ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ழ": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "ં": [
+    "Gujr",
+    "Taml",
+    "A"
+  ],
+  "ി": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "ุ": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "C": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ӕ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ᕷ": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "ᑭ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ǥ": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "ħ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "ಒ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "ԁ": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "Ʈ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ґ": [
     "Cyrl",
     "Grek",
     "A"
   ],
-  "0B68": [
+  "i": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ә": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ң": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ӡ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ᖴ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ំ": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "֯": [
+    "Hebr",
+    "Thai",
+    "A"
+  ],
+  "ౕ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ᐧ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "е": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Е": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "८": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "S": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "់": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "ಲ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "ឺ": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "O": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "ɛ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Η": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "η": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ౌ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "Ꮍ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "Ƶ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ஜ": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "Ɨ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "້": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "Ꮷ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "Б": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "Ө": [
+    "Cyrl",
+    "Orya",
+    "A"
+  ],
+  "ಇ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "О": [
+    "Cyrl",
+    "Orya",
+    "A"
+  ],
+  "ү": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "่": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "Ꭹ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ី": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "ׂ": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "ε": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ǝ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "అ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "໐": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ɵ": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "່": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "ヘ": [
+    "Kana",
+    "Hira",
+    "A"
+  ],
+  "ಆ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "у": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ల": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "๋": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ұ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "қ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "с": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "Ɵ": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "ς": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "૦": [
+    "Gujr",
+    "Thai",
+    "A"
+  ],
+  "Ɛ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "Н": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ყ": [
+    "Geor",
+    "Latn",
+    "A"
+  ],
+  "φ": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "Ѕ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "F": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ѕ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "਼": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "Θ": [
+    "Grek",
+    "Orya",
+    "A"
+  ],
+  "ಂ": [
+    "Knda",
+    "Thai",
+    "A"
+  ],
+  "ื": [
+    "Thai",
+    "Khmr",
+    "A"
+  ],
+  "ᒙ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Σ": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "Ε": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "ᔯ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ҟ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ᗞ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Р": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "ന": [
+    "Mlym",
+    "Sinh",
+    "A"
+  ],
+  "ൂ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "ఇ": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "ฝ": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ี": [
+    "Thai",
+    "Khmr",
+    "A"
+  ],
+  "Ꮓ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ʋ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ҳ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "յ": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "ο": [
+    "Grek",
+    "Thai",
+    "A"
+  ],
+  "Β": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "Ƭ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "֜": [
+    "Hebr",
+    "Deva",
+    "A"
+  ],
+  "Ꮐ": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "ґ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ூ": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "౦": [
+    "Telu",
+    "Thai",
+    "A"
+  ],
+  "о": [
+    "Cyrl",
+    "Thai",
+    "A"
+  ],
+  "੪": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "Ꭺ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "૪": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "்": [
+    "Taml",
+    "Hebr",
+    "A"
+  ],
+  "ᐏ": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "Ҭ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ુ": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "ൃ": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "Գ": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "հ": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "а": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ઽ": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "T": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "Ꮟ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "Ɠ": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "೯": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "ս": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "ь": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "ф": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "ಞ": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "Ᏼ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "Ꮤ": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "ู": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "ᒍ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "ᕽ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "w": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ŧ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "଼": [
     "Orya",
     "Guru",
+    "A"
+  ],
+  "ᑯ": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "Ƅ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "Ɩ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "ʊ": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "ƚ": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "գ": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "ғ": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "௨": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "Y": [
+    "Latn",
+    "Grek",
     "A"
   ]
 }
