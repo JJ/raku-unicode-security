@@ -43,6 +43,15 @@ sub confusable( $this-string, $that-string ) is export {
     return skeleton( $this-string) eq skeleton( $that-string );
 }
 
+sub soss( $string ) is export is pure {
+    my %soss;
+    for $string.comb -> $c {
+        my $script = $c.uniprop("Script") // "Unknown";
+        %soss{$script} = $c if $script eq none("Common","Inherited");
+    }
+    return %soss;
+}
+
 =begin pod
 
 =head1 NAME
