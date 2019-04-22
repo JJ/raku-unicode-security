@@ -4,11 +4,17 @@ unit class Unicode::Security:ver<0.0.1>;
 
 use JSON::Fast;
 my $spec = CompUnit::DependencySpecification.new(:short-name<Unicode::Security>);
-say $spec;
 my $dist = $*REPO.resolve($spec).distribution;
-say $dist;
-say $dist.meta<resources>.list;
+my %confusables = from-json "resource/{$dist.meta<resources>[0]}".IO.slurp;
+my %confusables-ws = from-json "resource/{$dist.meta<resources>[1]}".IO.slurp;
 
+sub confusables( $c where %confusables{$c} ) is export {
+    return  %confusables{$c}
+}
+
+sub confusables-whole-script( $c where %confusables-ws{$c} ) is export {
+    return  %confusables-ws{$c}
+}
 
 
 =begin pod
