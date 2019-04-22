@@ -9,10 +9,19 @@ constant confusables-url = "http://www.unicode.org/Public/security/latest/confus
 
 my $confusables = LWP::Simple.get(  confusables-url );
 
-my @confusables;
+my %confusables;
 for $confusables.split(/\n+/).grep(/";"/) -> $l {
-    next unless $l ~~ /^$<source> = [ \w+ ] \s+ ";" \s+ $<target> = [ \w+ ]/;
-    @confusables.push: [~$<source>,~$<target>];
+    next unless $l ~~ /^$<source> = [ \w+ ] \s+ ";" \s+ $<target> = [ \w+ ] ** 1..* % " " \s+ ";"/;
+    my $target;
+    my $target-match = ~$<target>;
+    my $source-match = ~$<source>;
+    if $target-match ~~ /\s+/ {
+        my @codepoints = $target-match.split(" ");
+        $target = @codepoints.map( { chr( :16( $_ )) } ).join("");
+    } else {
+        $target = chr( :16($target-match));
+    }
+    %confusables{ chr( :16($source-match)) }.push: $target;
 }
 
-"confusables.json".IO.spurt( to-json @confusables );
+"confusables.json".IO.spurt( to-json %confusables );
