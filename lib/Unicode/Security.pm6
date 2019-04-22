@@ -6,7 +6,24 @@ use JSON::Fast;
 my $spec = CompUnit::DependencySpecification.new(:short-name<Unicode::Security>);
 my $dist = $*REPO.resolve($spec).distribution;
 my %confusables = from-json "resource/{$dist.meta<resources>[0]}".IO.slurp;
+my @confusables-sources;
+my @confusables-targets;
+
+for %confusables.kv -> $key, @values {
+    for @values -> $v {
+        push @confusables-sources: $key;
+        push @confusables-targets: $v;
+    }
+}
+
 my %confusables-ws = from-json "resource/{$dist.meta<resources>[1]}".IO.slurp;
+
+# for %confusables.keys {
+#     say "$_ {$_.uniname} ", :16( ~$_.ord ), " ";
+#     for @(%confusables{$_}) -> $c {
+#         say $c.NFD.Str;
+#     }
+# }
 
 sub confusables( $c where %confusables{$c} ) is export {
     return  %confusables{$c}
@@ -16,6 +33,17 @@ sub confusables-whole-script( $c where %confusables-ws{$c} ) is export {
     return  %confusables-ws{$c}
 }
 
+sub skeleton( $string ) is export {
+    my $copy = $string.NFD.Str;
+    say $copy;
+    $copy.=trans( @confusables-sources => @confusables-targets );
+    say "$copy, $string";
+    return $copy
+}
+
+sub confusable( $this-string, $that-string ) is export {
+    return skeleton( $this-string) eq skeleton( $that-string );
+}
 
 =begin pod
 
