@@ -1,0 +1,1447 @@
+{
+  "041A": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "093C": [
+    "Deva",
+    "Orya",
+    "A"
+  ],
+  "0E22": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "0071": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "15B4": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0192": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "1427": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0054": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "041D": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "059C": [
+    "Hebr",
+    "Deva",
+    "A"
+  ],
+  "0CE6": [
+    "Knda",
+    "Thai",
+    "A"
+  ],
+  "0406": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "03C5": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "0566": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "09ED": [
+    "Beng",
+    "Orya",
+    "A"
+  ],
+  "13D9": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "13F2": [
+    "Cher",
+    "Armn",
+    "A"
+  ],
+  "0410": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "13F4": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "0458": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0D20": [
+    "Mlym",
+    "Orya",
+    "A"
+  ],
+  "15EF": [
+    "Cans",
+    "Cher",
+    "A"
+  ],
+  "03B5": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "0581": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "0E8D": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "0275": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "01DD": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "039F": [
+    "Grek",
+    "Orya",
+    "A"
+  ],
+  "0A02": [
+    "Guru",
+    "Taml",
+    "A"
+  ],
+  "00F8": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "17CB": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "00D8": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "05B9": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "019E": [
+    "Latn",
+    "Grek",
+    "L"
+  ],
+  "1036": [
+    "Mymr",
+    "Thai",
+    "A"
+  ],
+  "01B5": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0AEE": [
+    "Gujr",
+    "Deva",
+    "A"
+  ],
+  "0193": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0A66": [
+    "Guru",
+    "Thai",
+    "A"
+  ],
+  "0420": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "09EA": [
+    "Beng",
+    "Orya",
+    "A"
+  ],
+  "0142": [
+    "Latn",
+    "Cans",
+    "L"
+  ],
+  "0050": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0166": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "01E4": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0490": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "03A1": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "04E1": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "04AB": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "13D4": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "13DE": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "0B3C": [
+    "Orya",
+    "Guru",
+    "A"
+  ],
+  "0BC2": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "13AA": [
+    "Cher",
+    "Grek",
+    "A"
+  ],
+  "005A": [
+    "Latn",
+    "Cher",
+    "A"
+  ],
+  "04D9": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "05C4": [
+    "Hebr",
+    "Taml",
+    "A"
+  ],
+  "0D09": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "0C23": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "0555": [
+    "Armn",
+    "Orya",
+    "A"
+  ],
+  "043A": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0260": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "0259": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0ECD": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "1403": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "039C": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "0A3C": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "04D5": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "01A5": [
+    "Latn",
+    "Cans",
+    "L"
+  ],
+  "0BBF": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "0444": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "0063": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0CEF": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "0472": [
+    "Cyrl",
+    "Orya",
+    "A"
+  ],
+  "13BD": [
+    "Cher",
+    "Geor",
+    "A"
+  ],
+  "0475": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "006C": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "049F": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "15DE": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0946": [
+    "Deva",
+    "Guru",
+    "A"
+  ],
+  "04B2": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "0A67": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "0570": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "01BD": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "1635": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "004C": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "13C0": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "019A": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0D23": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "0443": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "04B0": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "0398": [
+    "Grek",
+    "Orya",
+    "A"
+  ],
+  "03BD": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "0417": [
+    "Cyrl",
+    "Armn",
+    "A"
+  ],
+  "094D": [
+    "Deva",
+    "Guru",
+    "A"
+  ],
+  "0E88": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "0E08": [
+    "Thai",
+    "Laoo",
+    "A"
+  ],
+  "0B82": [
+    "Taml",
+    "Thai",
+    "A"
+  ],
+  "03B9": [
+    "Grek",
+    "Cher",
+    "A"
+  ],
+  "0473": [
+    "Cyrl",
+    "Thai",
+    "A"
+  ],
+  "0064": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0185": [
+    "Latn",
+    "Cyrl",
+    "L"
+  ],
+  "04CD": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0575": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "13AC": [
+    "Cher",
+    "Grek",
+    "A"
+  ],
+  "0111": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0B89": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "157D": [
+    "Cans",
+    "Latn",
+    "L"
+  ],
+  "03B4": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "0077": [
+    "Latn",
+    "Cher",
+    "A"
+  ],
+  "0C82": [
+    "Knda",
+    "Thai",
+    "A"
+  ],
+  "03BF": [
+    "Grek",
+    "Thai",
+    "A"
+  ],
+  "0131": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "09E6": [
+    "Beng",
+    "Orya",
+    "A"
+  ],
+  "0046": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "006A": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "0498": [
+    "Cyrl",
+    "Armn",
+    "A"
+  ],
+  "13E6": [
+    "Cher",
+    "Grek",
+    "A"
+  ],
+  "0491": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0966": [
+    "Deva",
+    "Thai",
+    "A"
+  ],
+  "0585": [
+    "Armn",
+    "Thai",
+    "A"
+  ],
+  "043E": [
+    "Cyrl",
+    "Thai",
+    "A"
+  ],
+  "04C9": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0415": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0ACD": [
+    "Gujr",
+    "Guru",
+    "A"
+  ],
+  "04E8": [
+    "Cyrl",
+    "Orya",
+    "A"
+  ],
+  "041E": [
+    "Cyrl",
+    "Orya",
+    "A"
+  ],
+  "0183": [
+    "Latn",
+    "Cans",
+    "L"
+  ],
+  "0EC8": [
+    "Laoo",
+    "Khmr",
+    "A"
+  ],
+  "0D8C": [
+    "Sinh",
+    "Mlym",
+    "A"
+  ],
+  "0533": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "05AF": [
+    "Hebr",
+    "Thai",
+    "A"
+  ],
+  "049E": [
+    "Cyrl",
+    "Cher",
+    "A"
+  ],
+  "10E7": [
+    "Geor",
+    "Latn",
+    "A"
+  ],
+  "0223": [
+    "Latn",
+    "Orya",
+    "L"
+  ],
+  "1577": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "0253": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0187": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0ED0": [
+    "Laoo",
+    "Thai",
+    "A"
+  ],
+  "0CCC": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "0076": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0C1E": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "0ABC": [
+    "Gujr",
+    "Orya",
+    "A"
+  ],
+  "0056": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0902": [
+    "Deva",
+    "Taml",
+    "A"
+  ],
+  "13C3": [
+    "Cher",
+    "Grek",
+    "A"
+  ],
+  "13BB": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "0138": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "025B": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "04E9": [
+    "Cyrl",
+    "Thai",
+    "A"
+  ],
+  "01A9": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0191": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0D28": [
+    "Mlym",
+    "Sinh",
+    "A"
+  ],
+  "04AA": [
+    "Cyrl",
+    "Cher",
+    "A"
+  ],
+  "0B66": [
+    "Orya",
+    "Mong",
+    "A"
+  ],
+  "14AA": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "30D8": [
+    "Kana",
+    "Hira",
+    "A"
+  ],
+  "096E": [
+    "Deva",
+    "Gujr",
+    "A"
+  ],
+  "0126": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0075": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "13BE": [
+    "Cher",
+    "Orya",
+    "A"
+  ],
+  "0D02": [
+    "Mlym",
+    "Thai",
+    "A"
+  ],
+  "0B90": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "101D": [
+    "Mymr",
+    "Thai",
+    "A"
+  ],
+  "1587": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "162F": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "0D4D": [
+    "Mlym",
+    "Sinh",
+    "A"
+  ],
+  "00D0": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0D1C": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "01FE": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "01A1": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "0E50": [
+    "Thai",
+    "Telu",
+    "A"
+  ],
+  "01B4": [
+    "Latn",
+    "Geor",
+    "A"
+  ],
+  "13B7": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "0E48": [
+    "Thai",
+    "Khmr",
+    "A"
+  ],
+  "0578": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "0433": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "049A": [
+    "Cyrl",
+    "Cher",
+    "A"
+  ],
+  "0AE6": [
+    "Gujr",
+    "Thai",
+    "A"
+  ],
+  "04AF": [
+    "Cyrl",
+    "Geor",
+    "A"
+  ],
+  "0454": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "018C": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "15F7": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0C02": [
+    "Telu",
+    "Thai",
+    "A"
+  ],
+  "146F": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0181": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0052": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0A4B": [
+    "Guru",
+    "Deva",
+    "A"
+  ],
+  "004F": [
+    "Latn",
+    "Orya",
+    "A"
+  ],
+  "13A5": [
+    "Cher",
+    "Latn",
+    "A"
+  ],
+  "01FF": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "0440": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "01E5": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "00C6": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "3007": [
+    "Hani",
+    "Orya",
+    "A"
+  ],
+  "0A82": [
+    "Gujr",
+    "Taml",
+    "A"
+  ],
+  "0A6A": [
+    "Guru",
+    "Orya",
+    "A"
+  ],
+  "1541": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "13CF": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "0408": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "1040": [
+    "Mymr",
+    "Thai",
+    "A"
+  ],
+  "0545": [
+    "Armn",
+    "Cyrl",
+    "A"
+  ],
+  "0070": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "01B3": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0445": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "3078": [
+    "Hira",
+    "Kana",
+    "A"
+  ],
+  "0425": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "01AE": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "03C6": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "0C1C": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "0C4C": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "146D": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "04C0": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0C2F": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "050C": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "148D": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "13A9": [
+    "Cher",
+    "Geor",
+    "A"
+  ],
+  "17C6": [
+    "Khmr",
+    "Thai",
+    "A"
+  ],
+  "03A9": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "00E6": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "006F": [
+    "Latn",
+    "Thai",
+    "A"
+  ],
+  "0BB4": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "026F": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0E4D": [
+    "Thai",
+    "Taml",
+    "A"
+  ],
+  "044A": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0B03": [
+    "Orya",
+    "Latn",
+    "A"
+  ],
+  "0394": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "0C9C": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "13B3": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "0D34": [
+    "Mlym",
+    "Taml",
+    "A"
+  ],
+  "13B1": [
+    "Cher",
+    "Grek",
+    "A"
+  ],
+  "0053": [
+    "Latn",
+    "Cher",
+    "A"
+  ],
+  "13E2": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "03A7": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "0492": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "0C9E": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "13D5": [
+    "Cher",
+    "Cyrl",
+    "A"
+  ],
+  "0501": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0563": [
+    "Armn",
+    "Latn",
+    "A"
+  ],
+  "0493": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "04B1": [
+    "Cyrl",
+    "Geor",
+    "A"
+  ],
+  "0C6F": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "0954": [
+    "Deva",
+    "Hebr",
+    "A"
+  ],
+  "0B9C": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "0062": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0BA3": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "142F": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "03C1": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "03A3": [
+    "Grek",
+    "Cher",
+    "A"
+  ],
+  "04BB": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "09BC": [
+    "Beng",
+    "Orya",
+    "A"
+  ],
+  "0435": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0C55": [
+    "Telu",
+    "Knda",
+    "A"
+  ],
+  "0474": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0224": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0A4D": [
+    "Guru",
+    "Gujr",
+    "A"
+  ],
+  "15EA": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0069": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "0045": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "157C": [
+    "Cans",
+    "Grek",
+    "A"
+  ],
+  "01B7": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "01AC": [
+    "Latn",
+    "Grek",
+    "A"
+  ],
+  "03B7": [
+    "Grek",
+    "Latn",
+    "A"
+  ],
+  "0397": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "0079": [
+    "Latn",
+    "Geor",
+    "A"
+  ],
+  "0430": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "0C66": [
+    "Telu",
+    "Thai",
+    "A"
+  ],
+  "0BCD": [
+    "Taml",
+    "Hebr",
+    "A"
+  ],
+  "15C5": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0395": [
+    "Grek",
+    "Cyrl",
+    "A"
+  ],
+  "0CA3": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "045B": [
+    "Cyrl",
+    "Latn",
+    "A"
+  ],
+  "04C7": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "13C2": [
+    "Cher",
+    "Cyrl",
+    "A"
+  ],
+  "056E": [
+    "Armn",
+    "Cans",
+    "A"
+  ],
+  "13E7": [
+    "Cher",
+    "Cans",
+    "A"
+  ],
+  "049B": [
+    "Cyrl",
+    "Latn",
+    "L"
+  ],
+  "0127": [
+    "Latn",
+    "Armn",
+    "A"
+  ],
+  "0292": [
+    "Latn",
+    "Cyrl",
+    "A"
+  ],
+  "0BE8": [
+    "Taml",
+    "Mlym",
+    "A"
+  ],
+  "1810": [
+    "Mong",
+    "Orya",
+    "A"
+  ],
+  "15AF": [
+    "Cans",
+    "Latn",
+    "A"
+  ],
+  "0399": [
+    "Grek",
+    "Cans",
+    "A"
+  ],
+  "0044": [
+    "Latn",
+    "Cans",
+    "A"
+  ],
+  "0CAF": [
+    "Knda",
+    "Telu",
+    "A"
+  ],
+  "04AE": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "04A2": [
+    "Cyrl",
+    "Cans",
+    "A"
+  ],
+  "0456": [
+    "Cyrl",
+    "Grek",
+    "A"
+  ],
+  "0B68": [
+    "Orya",
+    "Guru",
+    "A"
+  ]
+}
