@@ -17,6 +17,13 @@ for %confusables.kv -> $key, @values {
 }
 
 my %confusables-ws = from-json "resource/{$dist.meta<resources>[1]}".IO.slurp;
+my %confusables-ws-sets;
+
+for %confusables-ws.keys -> $key {
+    for %confusables-ws{$key}.keys -> $k {
+        %confusables-ws-sets{$key}{$k} = set  %confusables-ws{$key}{$k}.list;
+    }
+}
 
 # for %confusables.keys {
 #     say "$_ {$_.uniname} ", :16( ~$_.ord ), " ";
@@ -55,14 +62,11 @@ sub soss( $string ) is export is pure {
 sub whole-script-confusable( $target, $str ) is export {
     my $norm-target = $target.wordcase;
     my %soss = soss($str.NFD.Str) || return False;
-    say %soss;
     my @scripts = %soss.keys;
     return False if @scripts.elems > 1;
     my $source = @scripts.pop;
-    my @chars = %confusables-ws{$source}{$target};
-    say $source, $target, %confusables-ws{$source}{$target}, %soss{$source};
-    say @chars ∩ %soss{$source};
-    return True if @chars ∩ %soss{$source};
+    my $char-set = %confusables-ws-sets{$source}{$target};
+    return True if $char-set ∩ %soss{$source}.list.Set;
     
 }
 
