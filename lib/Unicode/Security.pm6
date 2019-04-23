@@ -60,7 +60,7 @@ sub whole-script-confusable( $target, $str ) is export {
     my $source = @scripts.pop;
     my $char-set = %confusables-ws-sets{$source}{$norm-target};
     return True if $char-set ∩ %soss{$source}.list.Set;
-    
+
 }
 
 sub mixed-script-confusable( $str ) is export {
@@ -88,7 +88,7 @@ sub mixed_script ($str) is export {
 
 =head1 NAME
 
-Unicode::Security - blah blah blah
+Unicode::Security - Check scripts for confusables and mixed script strings
 
 =head1 SYNOPSIS
 
@@ -96,11 +96,41 @@ Unicode::Security - blah blah blah
 
 use Unicode::Security;
 
+say "Nope" if mixed-script( "abcdef" );
+say "Yea" if mixed-script( "aαbβ" );
+
+say "Looks fake, Rick" if confusable('paypal', "p\x[0430]yp\x[0430]l");
+say "No problem"  unless confusable('Paypal', 'paypal');
+
+say "Not confusing" unless whole-script-confusable("Latin", "DFRVz");
+say "Confusing" if whole-script-confusable("Cyrillic", "scope");
+
+
 =end code
 
 =head1 DESCRIPTION
 
-Unicode::Security is ...
+Unicode::Security is a (partial) transcription of its namesake Perl 5 module. It incorporates confusion tables from the Unicode consortium to detect which graphemes can cause confusion between two alphabets, or which strings could be confused between two or more alphabets; also detect when some strings have mixed scripts, which can be used to slip by literal-string detectors.
+
+									
+=head1 METHODS
+
+=head2 sub confusable( $string-a, $string-b )
+
+Returns true if one string could be confusable for the other.
+
+=head2 sub whole-script-comfusable( $script, $string )
+
+Returns True if the string would be confusable for another written in the indicated script
+
+=head2 sub mixed-script( $str )
+
+Returns C<True> if the string includes several scripts, C<False> otherwise
+
+							
+=head2 sub mixed-script-confusable( $str )
+
+Returns C<True> if the scripts present in a string could make it confusable for any of them. 
 
 =head1 AUTHOR
 

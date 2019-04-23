@@ -9,7 +9,7 @@ my @test = (
 );
 
 for @test -> @t  {
-    is mixed_script(@t[0]), @t[1], "@t[0] is OK";
+    is mixed-script(@t[0]), @t[1], "@t[0] is OK";
 }
 
 done-testing;
