@@ -65,8 +65,25 @@ sub whole-script-confusable( $target, $str ) is export {
     my @scripts = %soss.keys;
     return False if @scripts.elems > 1;
     my $source = @scripts.pop;
-    my $char-set = %confusables-ws-sets{$source}{$target};
+    my $char-set = %confusables-ws-sets{$source}{$norm-target};
     return True if $char-set ∩ %soss{$source}.list.Set;
+    
+}
+
+sub mixed-script-confusable( $str ) is export {
+    my %soss = soss($str.NFD.Str);
+    say %soss.keys;
+    for %soss.keys -> $source {
+        my $sum = 0;
+        for %soss.keys -> $target {
+            next if $target eq $source;
+            my $char-set = %confusables-ws-sets{$target}{$source};
+            last unless $char-set ∩ %soss{$target}.list.Set;
+            $sum++;
+        }
+        return True if 1 == ( %soss.keys.elems - $sum );
+    }
+    return False;
     
 }
 
