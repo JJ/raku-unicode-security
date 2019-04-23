@@ -25,13 +25,6 @@ for %confusables-ws.keys -> $key {
     }
 }
 
-# for %confusables.keys {
-#     say "$_ {$_.uniname} ", :16( ~$_.ord ), " ";
-#     for @(%confusables{$_}) -> $c {
-#         say $c.NFD.Str;
-#     }
-# }
-
 sub confusables( $c where %confusables{$c} ) is export {
     return  %confusables{$c}
 }
@@ -85,6 +78,10 @@ sub mixed-script-confusable( $str ) is export {
     }
     return False;
     
+}
+
+sub mixed_script ($str) is export {
+    return 1 < soss $str;
 }
 
 =begin pod

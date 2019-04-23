@@ -7,13 +7,13 @@
   "description" : "Unicode-string security",
     "license" : "Artistic-2.0",
     "name" : "Unicode::Security",
-    "perl" : "6.c",
+    "perl" : "6.d",
     "provides" : {
         "Unicode::Security" : "lib/Unicode/Security.pm6"
     },
     "resources" : [ "data/confusables.json", "data/confusables-ws.json" ],
     "source-url" : "",
-    "tags" : [ ],
+    "tags" : [ "unicode", "security" ],
     "test-depends" : [ ],
     "version" : "0.0.1"
 }
