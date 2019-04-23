@@ -60,7 +60,7 @@ sub whole-script-confusable( $target, $str ) is export {
     return False if @scripts.elems > 1;
     my $source = @scripts.pop;
     my @chars = %confusables-ws{$source}{$target};
-
+    say $source, $target, %confusables-ws{$source}{$target};
     return True if @chars ∩ %soss{$source};
     
 }

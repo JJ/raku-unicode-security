@@ -7,8 +7,18 @@ use JSON::Fast;
 
 constant confusables-whole-script-url = "https://www.unicode.org/reports/tr39/data/confusablesWholeScript.txt";
 
-my $confusables = LWP::Simple.get(  confusables-whole-script-url );
 
+
+# Load 4-letter script names
+my %four-letter-codes;
+for "../data/iso15924-utf8-20180827.txt".IO.lines -> $l {
+    next unless $l ~~ /^ \w+ ";"/;
+    my @data = $l.split(";");
+    %four-letter-codes{@data[0]} = @data[4];
+}
+
+# Download confusables table from Unicode
+my $confusables = LWP::Simple.get(  confusables-whole-script-url );
 my %confusables;
 for $confusables.split(/\n+/).grep(/";"/) -> $l {
     next unless $l ~~ /^$<source> = [ \S+ ] \s+ ";" \s+ $<source-script> = [ \w+ ] \s* ";" \s+ $<target-script> = [ \w+ ] \s* ";" \s+ /;
@@ -19,7 +29,7 @@ for $confusables.split(/\n+/).grep(/";"/) -> $l {
             %confusables{$source}{$target}.push: chr($c);
         }
     } else {
-        %confusables{$source}{$target}.push: chr(:16($codepoint));
+        %confusables{%four-letter-codes{$source}}{%four-letter-codes{$target}}.push: chr(:16($codepoint));
     }
 }
 
