@@ -47,18 +47,21 @@ sub soss( $string ) is export is pure {
     my %soss;
     for $string.comb -> $c {
         my $script = $c.uniprop("Script") // "Unknown";
-        %soss{$script} = $c if $script eq none("Common","Inherited");
+        %soss{$script}.push: $c if $script eq none("Common","Inherited");
     }
     return %soss;
 }
 
-sub whole-script-confusable( $target, $str ) {
-    my $norm-target = ucfirst lc $target;
+sub whole-script-confusable( $target, $str ) is export {
+    my $norm-target = $target.wordcase;
     my %soss = soss($str.NFD.Str) || return False;
+    say %soss;
     my @scripts = %soss.keys;
     return False if @scripts.elems > 1;
     my $source = @scripts.pop;
-    return False;
+    my @chars = %confusables-ws{$source}{$target};
+
+    return True if @chars ∩ %soss{$source};
     
 }
 
