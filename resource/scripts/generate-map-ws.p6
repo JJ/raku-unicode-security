@@ -11,15 +11,15 @@ my $confusables = LWP::Simple.get(  confusables-whole-script-url );
 
 my %confusables;
 for $confusables.split(/\n+/).grep(/";"/) -> $l {
-    next unless $l ~~ /^$<source> = [ \S+ ] \s+ ";" \s+ $<source-script> = [ \w+ ] \s* ";" \s+ $<target-script> = [ \w+ ] \s* ";" \s+ $<type> = [ \w+ ]/;
-    my ($codepoint, $source, $target, $type ) = ~$<source>, ~$<source-script>, ~$<target-script>, ~$<type>;
+    next unless $l ~~ /^$<source> = [ \S+ ] \s+ ";" \s+ $<source-script> = [ \w+ ] \s* ";" \s+ $<target-script> = [ \w+ ] \s* ";" \s+ /;
+    my ($codepoint, $source, $target ) = ~$<source>, ~$<source-script>, ~$<target-script>;
     if $codepoint.index("..") {
         my ($min,$max) = $codepoint.split("..");
         for :16($min)..:16($max) -> $c {
-            %confusables{chr($c)} = [ $source, $target, $type ];
+            %confusables{$source}{$target}.push: chr($c);
         }
     } else {
-        %confusables{chr(:16($codepoint))} = [ $source, $target, $type ];
+        %confusables{$source}{$target}.push: chr(:16($codepoint));
     }
 }
 

@@ -52,6 +52,16 @@ sub soss( $string ) is export is pure {
     return %soss;
 }
 
+sub whole-script-confusable( $target, $str ) {
+    my $norm-target = ucfirst lc $target;
+    my %soss = soss($str.NFD.Str) || return False;
+    my @scripts = %soss.keys;
+    return False if @scripts.elems > 1;
+    my $source = @scripts.pop;
+    return False;
+    
+}
+
 =begin pod
 
 =head1 NAME
