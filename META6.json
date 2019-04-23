@@ -3,17 +3,25 @@
     "JJ Merelo"
   ],
   "build-depends" : [ ],
-    "depends" : [ "JSON::Fast" ],
-  "description" : "Unicode-string security",
-    "license" : "Artistic-2.0",
-    "name" : "Unicode::Security",
-    "perl" : "6.d",
-    "provides" : {
-        "Unicode::Security" : "lib/Unicode/Security.pm6"
-    },
-    "resources" : [ "data/confusables.json", "data/confusables-ws.json" ],
-    "source-url" : "",
-    "tags" : [ "unicode", "security" ],
-    "test-depends" : [ ],
-    "version" : "0.0.1"
+  "depends" : [
+    "JSON::Fast"
+  ],
+  "description" : "Check scripts for confusables and mixed script strings",
+  "license" : "Artistic-2.0",
+  "name" : "Unicode::Security",
+  "perl" : "6.d",
+  "provides" : {
+    "Unicode::Security" : "lib/Unicode/Security.pm6"
+  },
+  "resources" : [
+    "data/confusables.json",
+    "data/confusables-ws.json"
+  ],
+  "source-url" : "https://github.com/JJ/perl6-unicode-security.git",
+  "tags" : [
+    "unicode",
+    "security"
+  ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
 }
