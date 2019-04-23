@@ -22,14 +22,16 @@ my $confusables = LWP::Simple.get(  confusables-whole-script-url );
 my %confusables;
 for $confusables.split(/\n+/).grep(/";"/) -> $l {
     next unless $l ~~ /^$<source> = [ \S+ ] \s+ ";" \s+ $<source-script> = [ \w+ ] \s* ";" \s+ $<target-script> = [ \w+ ] \s* ";" \s+ /;
-    my ($codepoint, $source, $target ) = ~$<source>, ~$<source-script>, ~$<target-script>;
+    my ($codepoint, $source, $target ) = ~$<source>,
+      %four-letter-codes{~$<source-script>},
+      %four-letter-codes{~$<target-script>};
     if $codepoint.index("..") {
         my ($min,$max) = $codepoint.split("..");
         for :16($min)..:16($max) -> $c {
             %confusables{$source}{$target}.push: chr($c);
         }
     } else {
-        %confusables{%four-letter-codes{$source}}{%four-letter-codes{$target}}.push: chr(:16($codepoint));
+        %confusables{$source}{$target}.push: chr(:16($codepoint));
     }
 }
 
