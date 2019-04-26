@@ -5,7 +5,7 @@ use JSON::Fast;
 
 my $spec = CompUnit::DependencySpecification.new(:short-name<Unicode::Security>);
 my $dist = $*REPO.resolve($spec).distribution;
-my %confusables = from-json "resource/{$dist.meta<resources>[0]}".IO.slurp;
+my %confusables = from-json "resources/{$dist.meta<resources>[0]}".IO.slurp;
 my @confusables-sources; my @confusables-targets;
 
 for %confusables.kv -> $key, @values {
@@ -15,7 +15,7 @@ for %confusables.kv -> $key, @values {
     }
 }
 
-my %confusables-ws = from-json "resource/{$dist.meta<resources>[1]}".IO.slurp;
+my %confusables-ws = from-json "resources/{$dist.meta<resources>[1]}".IO.slurp;
 my %confusables-ws-sets;
 
 for %confusables-ws.keys -> $key {
