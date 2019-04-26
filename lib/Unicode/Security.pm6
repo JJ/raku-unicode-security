@@ -1,5 +1,5 @@
 use v6.c;
-unit class Unicode::Security:ver<0.0.1>;
+unit class Unicode::Security:ver<0.0.2>;
 use JSON::Fast;
 
 
