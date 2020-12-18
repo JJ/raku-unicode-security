@@ -61,7 +61,8 @@ Returns `True` if the string includes several scripts, `False` otherwise
 sub mixed-script-confusable( $str )
 -----------------------------------
 
-Returns `True` if the scripts present in a string could make it confusable for any of them.
+Returns `True` if the scripts present in a string could make it
+confusable for any of them.
 
 AUTHOR
 ======
