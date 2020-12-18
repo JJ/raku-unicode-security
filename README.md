@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/JJ/raku-unicode-security.svg?branch=master)](https://travis-ci.com/JJ/raku-unicode-security)
+[![Build Status](https://travis-ci.com/JJ/perl6-unicode-security.svg?branch=master)](https://travis-ci.com/JJ/perl6-unicode-security)
 
 NAME
 ====
