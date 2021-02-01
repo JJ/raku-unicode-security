@@ -3,19 +3,18 @@ unit class Unicode::Security:ver<0.0.2>;
 use JSON::Fast;
 
 
-my $spec = CompUnit::DependencySpecification.new(:short-name<Unicode::Security>);
-my $dist = $*REPO.resolve($spec).distribution;
-my %confusables = from-json $dist.content("resources/data/confusables.json").IO.slurp;
+
+my %confusables = from-json %?RESOURCES<data/confusables.json>.slurp;
 my @confusables-sources; my @confusables-targets;
 
 for %confusables.kv -> $key, @values {
     for @values -> $v {
-	push @confusables-sources: $key;
-	push @confusables-targets: $v;
+        push @confusables-sources: $key;
+        push @confusables-targets: $v;
     }
 }
 
-my %confusables-ws = from-json $dist.content("resources/data/confusables-ws.json").IO.slurp;
+my %confusables-ws = from-json %?RESOURCES<data/confusables-ws.json>.slurp;
 my %confusables-ws-sets;
 
 for %confusables-ws.keys -> $key {
