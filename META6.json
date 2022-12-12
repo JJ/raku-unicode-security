@@ -2,7 +2,7 @@
   "authors" : [
     "JJ Merelo"
   ],
-  "build-depends" : [ ],
+  "auth": "zef:jjmerelo",
   "depends" : [
     "JSON::Fast"
   ],
@@ -26,6 +26,5 @@
     "unicode",
     "security"
   ],
-  "test-depends" : [ ],
-  "version" : "0.0.2"
+  "version" : "0.0.3"
 }
