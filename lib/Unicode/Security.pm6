@@ -19,7 +19,7 @@ my %confusables-ws-sets;
 
 for %confusables-ws.keys -> $key {
     for %confusables-ws{$key}.keys -> $k {
-	%confusables-ws-sets{$key}{$k} = set %confusables-ws{$key}{$k}.list;
+        %confusables-ws-sets{$key}{$k} = set %confusables-ws{$key}{$k}.list;
     }
 }
 
@@ -27,12 +27,15 @@ sub confusables( $c where %confusables{$c} ) is export {
     return %confusables{$c}
 }
 
-sub confusables-whole-script( $c where %confusables-ws{$c} ) is export
-    { return %confusables-ws{$c} }
+sub confusables-whole-script( $c where %confusables-ws{$c} ) is export {
+    return %confusables-ws{$c}
+}
 
-sub skeleton( $string ) is export { my $copy = $string.NFD.Str;
+sub skeleton( $string ) is export {
+    my $copy = $string.NFD.Str;
     $copy.=trans( @confusables-sources => @confusables-targets );
-    return $copy }
+    return $copy
+}
 
 sub confusable( $this-string, $that-string ) is export {
     return skeleton( $this-string) eq skeleton( $that-string );
@@ -41,8 +44,8 @@ sub confusable( $this-string, $that-string ) is export {
 sub soss( $string ) is export is pure {
     my %soss;
     for $string.comb ->$c {
-	my $script = $c.uniprop("Script") // "Unknown";
-	%soss{$script}.push: $c if $script eq none("Common","Inherited");
+        my $script = $c.uniprop("Script") // "Unknown";
+        %soss{$script}.push: $c if $script eq none("Common","Inherited");
     }
     return %soss;
 }
@@ -61,16 +64,15 @@ sub whole-script-confusable( $target, $str ) is export {
 sub mixed-script-confusable( $str ) is export {
     my %soss = soss($str.NFD.Str);
     for %soss.keys -> $source {
-	my $sum = 0;
-	for %soss.keys -> $target {
-	    next if $target eq $source;
-	    my $char-set = %confusables-ws-sets{$target}{$source};
-	    last unless $char-set ∩ %soss{$target}.list.Set; $sum++;
-	}
-	return True if 1 == ( %soss.keys.elems - $sum );
+        my $sum = 0;
+        for %soss.keys -> $target {
+            next if $target eq $source;
+            my $char-set = %confusables-ws-sets{$target}{$source};
+            last unless $char-set ∩ %soss{$target}.list.Set; $sum++;
+        }
+        return True if 1 == ( %soss.keys.elems - $sum );
     }
     return False;
-    
 }
 
 sub mixed-script ($str) is export { return 1 < soss $str; }
@@ -79,8 +81,7 @@ sub mixed-script ($str) is export { return 1 < soss $str; }
 
 =head1 NAME
 
-Unicode::Security - Check scripts for confusables and mixed script
-strings
+Unicode::Security - Check scripts for confusables and mixed script strings
 
 =head1 SYNOPSIS
 
