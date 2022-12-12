@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/JJ/perl6-unicode-security.svg?branch=master)](https://travis-ci.com/JJ/perl6-unicode-security)
-
 NAME
 ====
 
@@ -72,7 +70,7 @@ JJ Merelo <jjmerelo@gmail.com>
 COPYRIGHT AND LICENSE
 =====================
 
-Copyright 2019 JJ Merelo
+Copyright 2019,2022 JJ Merelo
 
 This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
 
