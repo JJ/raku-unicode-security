@@ -1,4 +1,4 @@
-NAME
+NAME [![Test-install distro](https://github.com/JJ/raku-unicode-security/actions/workflows/test.yaml/badge.svg)](https://github.com/JJ/raku-unicode-security/actions/workflows/test.yaml)
 ====
 
 Unicode::Security - Check scripts for confusables and mixed script strings
