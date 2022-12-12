@@ -23,7 +23,7 @@ for %confusables-ws.keys -> $key {
     }
 }
 
-sub confusables( $c where %confusables{$c} ) is export {
+sub confusables( $c where $c ∈ %confusables.keys ) is export {
     return %confusables{$c}
 }
 
@@ -100,7 +100,6 @@ say "No problem" unless confusable('Paypal', 'paypal');
 
 say "Not confusing" unless whole-script-confusable("Latin", "DFRVz");
 say "Confusing" if whole-script-confusable("Cyrillic", "scope");
-
 
 =end code
 

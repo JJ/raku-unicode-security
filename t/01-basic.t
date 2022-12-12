@@ -13,5 +13,8 @@ is soss( "DFRVz" ).keys.elems, 1, "Unconfusable";
 is soss( "scope" ).keys.elems, 1, "Unconfusable";
 is soss( "\x[0455]\x[0441]\x[043e]\x[0440]\x[0435]" ).keys.elems, 1, "Unconfusable";
 
+for ( "Đ" => ["D̵"], "\x[0430]" => 'a' ) -> $pair {
+    is confusables( $pair.key ), $pair.value, "Confusables checks $pair";
+}
 
 done-testing;
