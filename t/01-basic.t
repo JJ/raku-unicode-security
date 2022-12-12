@@ -17,4 +17,8 @@ for ( "Đ" => ["D̵"], "\x[0430]" => 'a' ) -> $pair {
     is confusables( $pair.key ), $pair.value, "Confusables checks $pair";
 }
 
+for <Armenian Tamil Cherokee Khmer> -> $script {
+    cmp-ok confusables-whole-script( $script ).keys.elems, ">", 0,
+            "There are whole script confusables for $script"
+}
 done-testing;

@@ -23,11 +23,11 @@ for %confusables-ws.keys -> $key {
     }
 }
 
-sub confusables( $c where $c ∈ %confusables.keys ) is export {
-    return %confusables{$c}
+sub confusables( $script where $script ∈ %confusables.keys ) is export {
+    return %confusables{$script}
 }
 
-sub confusables-whole-script( $c where %confusables-ws{$c} ) is export {
+sub confusables-whole-script( $c where $c ∈ %confusables-ws.keys ) is export {
     return %confusables-ws{$c}
 }
 
