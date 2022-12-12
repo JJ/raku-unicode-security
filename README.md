@@ -46,7 +46,7 @@ sub confusable( $string-a, $string-b )
 
 Returns true if one string could be confusable for the other.
 
-sub whole-script-comfusable( $script, $string )
+sub whole-script-confusable( $script, $string )
 -----------------------------------------------
 
 Returns True if the string would be confusable for another written in the indicated script

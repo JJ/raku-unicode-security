@@ -127,7 +127,7 @@ JSON files, which must be moved by hand to the C<resources/data>
 
 Returns true if one string could be confusable for the other.
 
-=head2 sub whole-script-comfusable( $script, $string )
+=head2 sub whole-script-confusable( $script, $string )
 
 Returns True if the string would be confusable for another written in the indicated script
 
