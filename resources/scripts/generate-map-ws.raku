@@ -6,12 +6,14 @@ use LWP::Simple;
 use JSON::Fast;
 
 constant confusables-whole-script-url = "https://www.unicode.org/reports/tr39/data/confusablesWholeScript.txt";
+constant scripts-file = "../data/iso15924.txt";
 
-
+die "Please run this script from its own directory" unless "data".IO.e;
 
 # Load 4-letter script names
 my %four-letter-codes;
-for "../data/iso15924-utf8-20180827.txt".IO.lines -> $l {
+
+for "../data/iso15924.txt".IO.lines -> $l {
     next unless $l ~~ /^ \w+ ";"/;
     my @data = $l.split(";");
     %four-letter-codes{@data[0]} = @data[4];
