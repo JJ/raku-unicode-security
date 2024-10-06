@@ -62,6 +62,10 @@ sub mixed-script-confusable( $str )
 Returns `True` if the scripts present in a string could make it
 confusable for any of them.
 
+## Upgrading
+
+This modules uses a couple of scripts to generate the tables used in it. It will be updated from time to time, but you can also update it by running the scripts included. It will need `LWP::Simple` installed, besides those in `META6.json`
+
 AUTHOR
 ======
 
