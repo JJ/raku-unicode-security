@@ -11,7 +11,7 @@
   "name" : "Unicode::Security",
   "perl" : "6.d",
   "provides" : {
-    "Unicode::Security" : "lib/Unicode/Security.pm6"
+    "Unicode::Security" : "lib/Unicode/Security.rakumod"
   },
   "resources" : [
     "data/confusables.json",
