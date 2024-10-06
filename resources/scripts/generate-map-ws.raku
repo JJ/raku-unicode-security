@@ -37,4 +37,4 @@ for $confusables.split(/\n+/).grep(/";"/) -> $l {
 }
 
 
-"confusables-ws.json".IO.spurt( to-json %confusables );
+"../data/confusables-ws.json".IO.spurt( to-json %confusables );
