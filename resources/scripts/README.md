@@ -1,7 +1,7 @@
 # Resource scripts
 
 
-These scripts need `JSON::Fast` and `LWP::Simple` installed as prerrequisites. They're no longer needed once the JSON files have been generated.
+These scripts need `JSON::Fast`, `LWP::Simple` and `IO::Socket::SSL` installed as prerrequisites. They're no longer needed once the JSON files have been generated.
 
 These scripts will download the text files from the Unicode consortium web and convert them into a JSON file that will be actually used by the module during precompilation.
 

@@ -8,9 +8,8 @@ use JSON::Fast;
 constant confusables-whole-script-url = "https://www.unicode.org/reports/tr39/data/confusablesWholeScript.txt";
 constant scripts-file = "../data/iso15924.txt";
 
-die "Please run this script from its own directory" unless "data".IO.e;
+die "Please run this script from its own directory" unless scripts-file.IO.e;
 
-# Load 4-letter script names
 my %four-letter-codes;
 
 for "../data/iso15924.txt".IO.lines -> $l {

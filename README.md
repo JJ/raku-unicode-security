@@ -64,7 +64,7 @@ confusable for any of them.
 
 ## Upgrading
 
-This modules uses a couple of scripts to generate the tables used in it. It will be updated from time to time, but you can also update it by running the scripts included. It will need `LWP::Simple` installed, besides those in `META6.json`
+This modules uses a couple of scripts to generate the tables used in it. It will be updated from time to time, but you can also update it by running the scripts included. It will need `LWP::Simple` and `IO::Socket::SSL` installed, besides those in `META6.json`
 
 AUTHOR
 ======
